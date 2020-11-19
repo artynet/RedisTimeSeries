@@ -1,0 +1,19 @@
+Source: redis-plugin-timeseries
+Section: embedded
+Priority: optional
+Maintainer: Debian Electronics Packaging Team <pkg-electronics-devel@lists.alioth.debian.org>
+Uploaders: Jonathan McDowell <noodles@earth.li>
+Build-Depends: debhelper (>= 10),
+               build-essential,
+               python,
+               python3
+Standards-Version: 4.0.1
+Homepage: https://oss.redislabs.com/redistimeseries/
+Vcs-Browser: https://github.com/RedisTimeSeries/RedisTimeSeries
+Vcs-Git: https://github.com/RedisTimeSeries/RedisTimeSeries.git
+Rules-Requires-Root: no
+
+Package: redis-plugin-timeseries
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, redis-server (>= 4.0.12)
+Description: RedisTimeSeries is a Redis Module adding a Time Series data structure to Redis. 
