@@ -1,0 +1,7 @@
+redis-plugin-timeseries (1.4.6-1) unstable; urgency=medium
+
+  * Initial release for v1.4.6
+    
+    https://github.com/RedisTimeSeries/RedisTimeSeries/releases/tag/v1.4.6
+
+ -- Arturo Rinaldi  <arturo@smartme.io>  Thu, 19 Nov 2020 14:31:50 +0000
