@@ -1,3 +1,9 @@
+redis-plugin-timeseries (1.4.6-2) unstable; urgency=medium
+
+  * fixing dh_fixperms giving execution permissions to module library
+
+ -- Arturo Rinaldi  <arturo@smartme.io>  Fri, 20 Nov 2020 15:15:39 +0100
+
 redis-plugin-timeseries (1.4.6-1) unstable; urgency=medium
 
   * Initial release for v1.4.6
