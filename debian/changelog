@@ -1,3 +1,9 @@
+redis-plugin-timeseries (1.4.8-1) unstable; urgency=medium
+
+  * New upstream version.
+
+ -- Arturo Rinaldi  <arturo@smartme.io>  Wed, 03 Mar 2021 22:45:35 +0000
+
 redis-plugin-timeseries (1.4.6-3) unstable; urgency=medium
 
   * small modifications for Debian Buster
