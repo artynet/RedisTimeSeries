@@ -3,7 +3,7 @@ Section: embedded
 Priority: optional
 Maintainer: Debian Electronics Packaging Team <pkg-electronics-devel@lists.alioth.debian.org>
 Uploaders: Jonathan McDowell <noodles@earth.li>
-Build-Depends: debhelper (>= 10),
+Build-Depends: debhelper-compat (= 13),
                build-essential,
                python,
                python3
