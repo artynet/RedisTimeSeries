@@ -1,3 +1,9 @@
+redis-plugin-timeseries (1.4.6-3) unstable; urgency=medium
+
+  * small modifications for Debian Buster
+
+ -- Arturo Rinaldi  <arturo@smartme.io>  Wed, 03 Mar 2021 22:38:38 +0000
+
 redis-plugin-timeseries (1.4.6-2) unstable; urgency=medium
 
   * fixing dh_fixperms giving execution permissions to module library
