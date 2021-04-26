@@ -1,3 +1,15 @@
+redis-plugin-timeseries (1.4.8-2) unstable; urgency=medium
+
+  * fixing package dependency.
+
+ -- Arturo Rinaldi  <arturo@smartme.io>  Mon, 26 Apr 2021 11:12:06 +0200
+
+redis-plugin-timeseries (1.4.8-1) unstable; urgency=medium
+
+  * New upstream version.
+
+ -- Arturo Rinaldi  <arturo@smartme.io>  Mon, 26 Apr 2021 11:02:31 +0200
+
 redis-plugin-timeseries (1.4.6-2) unstable; urgency=medium
 
   * fixing dh_fixperms giving execution permissions to module library

@@ -15,5 +15,5 @@ Rules-Requires-Root: no
 
 Package: redis-plugin-timeseries
 Architecture: any
-Depends: ${shlibs:Depends}, ${misc:Depends}, redis-server (>= 4.0.12)
+Depends: ${shlibs:Depends}, ${misc:Depends}, redis-server (>= 3:4.0.12-1)
 Description: RedisTimeSeries is a Redis Module adding a Time Series data structure to Redis. 
