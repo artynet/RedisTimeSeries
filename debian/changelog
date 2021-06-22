@@ -1,3 +1,9 @@
+redis-plugin-timeseries (1.4.9-1) unstable; urgency=medium
+
+  * New upstream version.
+
+ -- Arturo Rinaldi  <arturo@smartme.io>  Tue, 22 Jun 2021 09:13:18 +0000
+
 redis-plugin-timeseries (1.4.8-1) unstable; urgency=medium
 
   * New upstream version.
